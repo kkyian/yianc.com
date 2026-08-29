@@ -1,2 +1,8 @@
 # yianc.com
-My website that has all the things I build.
+
+Static GitHub Pages site for Yian's portfolio, tools, websites, and contact information.
+
+## Pages
+
+- `/` - portfolio hub and project index
+- `/tools/aircraft-detective/` - Aircraft Detective, the featured interactive tool
